@@ -30,7 +30,7 @@ To ensure a smooth user experience, the calculator gracefully handles invalid ma
 ## Technologies Used
 - **HTML:** HTML file provieds structure to the calculator.
 - **CSS:** CSS used for styling the html structure.
-- **JavaScript** JS file for functionality.
+- **JavaScript:** JS file for functionality.
 
 
 
